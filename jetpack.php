@@ -1,14 +1,13 @@
 <?php
 
 /*
- * Plugin Name: MODIFIED Jetpack by WordPress.com
+ * Plugin Name: CUSTOM Jetpack by WordPress.com 
  * Plugin URI: http://occasionsonline.com/
- * Description: THIS PLUGIN HAS BEEN MODDED AND DECOUPLED BY BEN KAPLAN. Bring the power of the WordPress.com cloud to your self-hosted WordPress. Jetpack enables you to connect your blog to a WordPress.com account to use the powerful features normally only available to WordPress.com users.
+ * Description: THIS PLUGIN HAS BEEN MODDED BY BEN KAPLAN.---------------------- DO NOT UPDATE!!!! ----------------------- Bring the power of the WordPress.com cloud to your self-hosted WordPress. Jetpack enables you to connect your blog to a WordPress.com account to use the powerful features normally only available to WordPress.com users.
  * Author: Automattic and modified by Jonathan Haun and Ben Kaplan
  * Version: 2.3.3
  * Author URI: http://occasionsonline.com
  * License: GPL2+
- * Text Domain: jetpack
  * Domain Path: /languages/
  */
 
